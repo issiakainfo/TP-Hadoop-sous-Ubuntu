@@ -1,7 +1,7 @@
 # Compte rendu — TP Hadoop sous Ubuntu
 *Clusters, HDFS, YARN, MapReduce et Python*
 
-**Nom / binôme :** ______________________  **Date :** 01/11/2026
+**Nom / binôme :** _________KARAMOKO ISSIAKA_____________  **Date :** 01/11/2026
 
 **Environnement :** VM Ubuntu (`ubuntu-srv`), OpenJDK 11, Hadoop 3.3.6 en mode pseudo-distribué, utilisateur `etudiant` (chemins `/home/etudiant`).
 
